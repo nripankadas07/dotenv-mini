@@ -41,7 +41,7 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
-from typing import Dict, Iterable, Iterator, Mapping, Tuple, Union
+from typing import Dict, Iterator, Mapping, Tuple, Union
 
 
 __all__ = [
