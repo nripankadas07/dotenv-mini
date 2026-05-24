@@ -11,7 +11,7 @@ A strict, predictable `.env` reader/writer for Python 3.10+. Zero dependencies.
 ## Install
 
 ```bash
-pip install dotenv-mini
+python -m pip install -e .
 ```
 
 Or from a clone:
